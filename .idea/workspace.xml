@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5c61645-9d7d-458e-a83c-92168f2ffaff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/p2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/class/html/practice/p3.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/class/html/practice/p2.html" afterPath="$PROJECT_DIR$/class/html/practice/p2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="fornt_end.iws" />
@@ -24,24 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="element.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class/html/element/element.html">
+      <file leaf-file-name="p3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/class/html/practice/p3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
-              <folding>
-                <element signature="n#li#7;n#ol#1;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#4;n#html#0;n#!!top" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="p1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/class/html/practice/p1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="164" column="4" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="4" />
+            <state vertical-scroll-proportion="-25.041666">
+              <caret line="207" column="22" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -50,8 +38,8 @@
       <file leaf-file-name="p2.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/class/html/practice/p2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.77236694">
-              <caret line="99" column="7" selection-start-line="99" selection-start-column="7" selection-end-line="99" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.77878106">
+              <caret line="188" column="9" selection-start-line="188" selection-start-column="9" selection-end-line="188" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -77,6 +65,7 @@
         <option value="$PROJECT_DIR$/class/html/hello_html.html" />
         <option value="$PROJECT_DIR$/class/html/element/element.html" />
         <option value="$PROJECT_DIR$/class/html/practice/p1.html" />
+        <option value="$PROJECT_DIR$/class/html/practice/p3.html" />
         <option value="$PROJECT_DIR$/class/html/practice/p2.html" />
       </list>
     </option>
@@ -89,9 +78,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="284" />
-    <option name="width" value="1543" />
-    <option name="height" value="1040" />
+    <option name="x" value="725" />
+    <option name="y" value="4" />
+    <option name="width" value="1561" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -206,6 +196,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fornt_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="element" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -279,10 +291,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="284" y="0" width="1543" height="1040" extended-state="0" />
-    <editor active="false" />
+    <frame x="725" y="4" width="1561" height="1043" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15258677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13139158" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -465,8 +477,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/element/element.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="222" column="12" selection-start-line="222" selection-start-column="12" selection-end-line="222" selection-end-column="12" />
+        <state vertical-scroll-proportion="0.37246048">
+          <caret line="370" column="0" selection-start-line="370" selection-start-column="0" selection-end-line="374" selection-end-column="16" />
           <folding>
             <element signature="n#li#7;n#ol#1;n#html#0;n#!!top" expanded="false" />
             <element signature="n#p#4;n#html#0;n#!!top" expanded="false" />
@@ -476,16 +488,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/p1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="164" column="4" selection-start-line="164" selection-start-column="4" selection-end-line="164" selection-end-column="4" />
+        <state vertical-scroll-proportion="-0.8803612">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/class/html/practice/p3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.041666">
+          <caret line="207" column="22" selection-start-line="207" selection-start-column="22" selection-end-line="207" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class/html/practice/p2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.77236694">
-          <caret line="99" column="7" selection-start-line="99" selection-start-column="7" selection-end-line="99" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.77878106">
+          <caret line="188" column="9" selection-start-line="188" selection-start-column="9" selection-end-line="188" selection-end-column="9" />
           <folding />
         </state>
       </provider>
