@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title></title>
+    <title>dothome_practice</title>
 </head>
 <body>
 
@@ -104,8 +104,8 @@
      <fieldset>
          <div>
            <span>
-              <label for="아이디">아이디(필수)</label>
-               <input type="text" title="아이디" placeholder="아이디(필수)"/>
+              <label for="ides">아이디(필수)</label>
+               <input type="text" id="ides" title="아이디" placeholder="아이디(필수)"/>
            </span>
            <button type="button">중복확인</button>
          </div>
@@ -161,14 +161,12 @@
              서비스만료 및 서비스정보를 메일 또는 문자로 받는데 동의합니다.
          </div>
 
+         <div>
              <input id="email-check" type="checkbox" />
              <label for="email-check"> 이메일 </label>
 
              <input id="sms-check" type="checkbox" />
              <label for="sms-check"> 문자 </label>
-
-         </div>
-         <div>
              중복회원가입 이용제한,무료호스팅은 (본인실명 1회)만 가능합니다.
          </div>
 
@@ -186,15 +184,18 @@
          <div>
              <input type="button" value="가입하기"/>
          </div>
-         
+
      </fieldset>
-     </div>
+
  </section>
 
-
-
- <section></section>
  <footer></footer>
+ <p>
+     <a href="http://validator.kldp.org/check?uri=referer"
+        onclick="this.href=this.href.replace(/referer$/,encodeURIComponent(document.URL))"><img
+             src="//validator.kldp.org/w3cimgs/validate/html5-blue.png" alt="Valid HTML 5" height="15" width="80"></a>
+ </p>
+
 
 </body>
 </html>

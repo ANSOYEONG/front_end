@@ -1,0 +1,36 @@
+CSS 포함방법
+
+1.inline
+ ex) <div style="color:red"></div>
+
+2.embed
+ ex) <head>
+        <!-- CSS -->
+        <style>
+          p { color : red }
+        </style>
+        <!-- CSS -->
+     </head>
+
+3. external
+
+  ex) 파일 : style.css
+
+        <head>
+            <!-- CSS -->
+            <style>
+              <link rel="stylesheet" href="style.css" />
+            </style>
+            <!-- CSS -->
+         </head>
+
+      문법
+
+        selector {
+         property : property 값;
+         property : property 값;
+         property : property 값;
+        }
+
+
+
