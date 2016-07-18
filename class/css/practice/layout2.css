@@ -1,14 +1,5 @@
-/*
-  웹페이지 전체 가로길이 : 1200px
-  브라우저 가운데 정렬
-  header 세로길이 : 100px
-  Lnb 가로길이 : 250px
-  Lnb와 contents 사이의 여백 : 50px
-  footer의 세로길이 : 300px
-*/
-
 .wrap{
-  width:1200px;
+  width:980px;
   margin:0 auto;
 }
 
@@ -26,22 +17,29 @@
 
 .lnb{
   width:160px;
-  height:400px;
+  height:300px;
   margin-right:20px;
   background-color: olivedrab;
   float:left;
 }
-
 .contents{
-  width:930px;
-  height:800px;
-  background-color:lightsalmon;
-  float:right;
+  width:390px;
+  height:500px;
+  margin-right:10px;
+  background: skyblue;
+  float:left;
+}
+
+.contents1{
+  width:390px;
+  height:500px;
+  margin-left:10px;
+  background: palevioletred;
+  float:left;
 }
 
 .footer{
-  height:300px;
+  height:100px;
   background-color:pink;
   margin-top:20px;
-  clear:both;
 }
