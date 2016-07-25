@@ -1,0 +1,60 @@
+.wrap{
+  width:980px;
+  margin:0 auto;
+}
+
+.left{
+  width:490px;
+  float:left;
+}
+
+.right{
+  width:490px;
+  float:left;
+}
+
+
+.header{
+  width:980px;
+  height:100px;
+  background: orangered;
+}
+
+.container:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+
+.footer{
+  width:980px;
+  height:100px;
+  background: orangered;
+}
+
+.lnb{
+  width:245px;
+  height:500px;
+  background: cadetblue;
+  float:left;
+}
+
+.nav{
+  width:245px;
+  height:500px;
+  background:skyblue;
+  float:left;
+}
+
+.contents1{
+  width:490px;
+  height:250px;
+  background:steelblue;
+}
+
+
+.contents2{
+  width:490px;
+  height:250px;
+  background:navy;
+}

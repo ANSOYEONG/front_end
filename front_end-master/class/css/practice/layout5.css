@@ -1,0 +1,60 @@
+.wrap{
+  width:980px;
+  margin:0 auto;
+}
+
+
+.container:after{
+  content:"";
+  display:block;
+  clear:both;
+}
+
+.mid{
+  width:980px;
+}
+
+.bottom{
+  wodth:980px;
+}
+
+.header{
+  width:485px;
+  height: 200px;
+  margin-right: 5px;
+  background: goldenrod;
+  float:left;
+}
+
+.header1{
+  width:485px;
+  height: 200px;
+  margin-left: 5px;
+  background: goldenrod;
+  float:left;
+}
+
+.section{
+  width:980px;
+  height:200px;
+  background: darkseagreen;
+  margin-top:10px;
+  margin-bottom:10px;
+  float:left;
+}
+
+.foot{
+  width:750px;
+  height:200px;
+  margin-right: 5px;
+  background: goldenrod;
+  float:left;
+}
+
+.foot1{
+  width:220px;
+  height:200px;
+  margin-left: 5px;
+  background: goldenrod;
+  float:left;
+}
