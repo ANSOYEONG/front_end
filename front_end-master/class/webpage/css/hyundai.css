@@ -126,31 +126,121 @@
 
 }
 
+.umb-gallery-menu{
+    margin-right:20px;
+}
+
 .umb-contents1{
     float:left;
     margin-right:50px;
 }
 
+.photo-gallery{
+    float:left;
+}
+
+.umb-gallery-item{
+    float:left;
+}
+
+.umb-gallery-img{
+     display:block;
+ }
+
+.umb-gallery-txt{
+    display:block;
+}
+
+
+.umb-gallery-video{
+
+}
+
+.scroll{
+    padding:10px;
+}
+
+.section-wrap{
+    margin-top:60px;
+    height:346px;
+    background:#f7f7f7;
+}
+
+.scroll-title{
+    text-align: center;
+}
+
+.scroll-menu-item{
+    float:left;
+    margin-right:69px;
+}
+
+
+.scroll-menu-wrap{
+    float:left;
+    line-height: 346px;
+}
+
+
+.notice-wrap{
+    float:left;
+    margin-right:50px;
+}
+
+.notice-title{
+    float:left;
+    margin-right:50px;
+}
+
+.business-wrap{
+    float:left;
+    margin-right:50px;
+
+}
+
+.webzine-wrap{
+    margin-right:50px;
+
+}
+
+.last-section-wrap{
+    margin-top:60px;
+    display:block;
+}
 
 
 
+.footer{
+    width:100%;
+    height:130px;
+    background:#323232;
+    position:relative;
+    padding:32px 0 0;
+}
+
+.footer-menu-left{
+    color:#aeaeae;
+    display: block;
+}
+
+.footer-menu-list{
+    display: block;
+    width:650px;
+}
+
+.footer-menu-item{
+    float:left;
+    padding:0 13px;
+}
 
 
+.footer-copy{
+    margin:10px 0 0;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.footer-menu-right{
+    float:right;
+}
 
 
 
