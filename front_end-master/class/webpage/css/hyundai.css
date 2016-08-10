@@ -50,23 +50,23 @@
 }
 
 .text-bg{
-    left:250px;
-    top:100px;
+    left:523px;
+    top:189px;
     margin:0 auto;
     position:absolute;
 }
 
 
 .safe-move{
-    left:317px;
-    top:156px;
+    left:605px;
+    top:234px;
     margin:0 auto;
     position:absolute;
 }
 
 .safe-move-txt{
-    left:250px;
-    top:228px;
+    left:523px;
+    top:316px;
     margin:0 auto;
     position:absolute;
 }
@@ -138,6 +138,10 @@
 }
 
 
+.news-bottom{
+
+}
+
 .umb-contents1{
     float:left;
     margin-right:40px;
@@ -179,10 +183,11 @@
 
 .news1-wrap{
     position:absolute;
+    float:right;
+    width:711px;
     top:899px;
     left:596px;
     padding:25px 0 0;
-    width:711px;
     border-top:2px solid #4b524c;
 }
 
@@ -203,6 +208,7 @@
 .news-list{
     width:350px;
     float:left;
+
 }
 
 .news-list-title{
@@ -212,7 +218,13 @@
     color:#333;
 }
 
+.new-img{
+    left:5px;
+    display:inline-block;
+}
+
 .news-list-date{
+    display:block;
     margin:5px 0 0;
 }
 
@@ -221,8 +233,9 @@
     color:#777;
     font-size:13px;
     line-height: 22px;
-    width:330px;
+    width:200px;
     height: 90px;
+    text-align: justify;
 }
 
 .scroll{
@@ -237,6 +250,7 @@
 
 .scroll-title{
     text-align: center;
+    margin-top:25px;
 }
 
 .scroll-menu-item{
@@ -247,6 +261,7 @@
 
 .scroll-menu-wrap{
     float:left;
+    margin-top:20px;
     line-height: 346px;
 }
 
@@ -263,20 +278,20 @@
 
 .business-wrap{
     float:left;
-    margin-right:50px;
+    margin:0 auto;
 
 }
 
 .webzine-wrap{
     margin-right:50px;
+    float:right;
 
 }
 
 .last-section-wrap{
-    margin-top:60px;
+    margin-top:0px;
     display:block;
 }
-
 
 
 .footer{
@@ -305,13 +320,16 @@
 
 .footer-copy{
     margin:10px 0 0;
+    display:block;
 }
 
 .footer-menu-right{
     float:right;
 }
 
-
+.button{
+    color:black;
+}
 
 
 .clearfix:after{
