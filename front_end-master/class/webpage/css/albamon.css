@@ -1,10 +1,11 @@
 .header{
-    width:100%;
-    position:relative;
+    width:1100px;
+    position:absolute;
+    top:70px;
+    left:350px;
 }
 
 .nav{
-    position:absolute;
     height:64px;
     z-index: 999999;
     top:75px;
@@ -15,10 +16,6 @@
 }
 
 .header-top{
-    /*position: absolute;*/
-    top:0px;
-    left:0px;
-    width:188px;
     height:64px;
     float:left;
 }
@@ -34,7 +31,7 @@
 }
 
 .depth1-menu{
-    width:1150px;
+    width:1050px;
     height: 64px;
     display:block;
     padding-left:30px;
@@ -53,55 +50,111 @@
 
 .depth1-menu-list.first{
     width:139px;
-    background-position:-37px 2px;
+    background-position:-21px 2px;
 }
 
 .depth1-menu-list.second{
     width:72px;
-    background-position:-211px 2px;
+    background-position:-196px 2px;
 }
 
 .depth1-menu-list.third{
     width:77px;
-    background-position:-317px 2px;
+    background-position:-301px 2px;
 }
 
 .depth1-menu-list.fourth{
     width:103px;
-    background-position:-428px 2px;
+    background-position:-412px 2px;
 }
 
 .depth1-menu-list.fifth{
     width:77px;
-    background-position:-564px 2px;
+    background-position:-547px 2px;
 }
 
 .depth1-menu-list.sixth{
     width:74px;
-    background-position:-675px 2px;
+    background-position:-659px 2px;
 }
 
 .depth1-menu-list.seventh{
     width:93px;
-    background-position:-779px 2px;
+    background-position:-764px 2px;
 }
 
-.main-visual{
 
+.main-visual-wrap{
+    position: absolute;
+    top:430px;
+    left:996px;
+}
+
+.main-visual-txt{
+    font-size:30px;
+    font-weight:100;
+    text-align: justify;
+    color:#fff;
+}
+
+.main-visual-txt>strong{
+    font-size:74px;
+    font-weight:700;
+    color:#ffd511;
 }
 
 .main-visual-img{
     width:100%;
-    }
+}
 
 .section-first{
-    width:1100px;
+    height:500px;
     margin:0 auto;
     text-align: center;
 }
 
+.section-first-wrap{
+    position:relative;
+    top:-340px;
+    left:-13px;
+    width:1000px;
+    /*padding-bottom:30px;*/
+    margin:0 auto;
+    text-align: center;
+}
+
+.first-title{
+    font-size:26px;
+    line-height:32px;
+    letter-spacing: -0.1em;
+    color:#474747;
+}
+
+.first-txtbox{
+    margin-top:30px;
+    background: url('../images/ab/w_count_bar.png') no-repeat center top;
+}
+
+.first-txtbox>strong{
+    font-size:80px;
+    color:#000;
+    font-weight:bold;
+}
+
+.first-txt{
+    margin-top:20px;
+    font-size:24px;
+    font-weight: bold;
+    letter-spacing: -0.1em;
+}
+
+.first-btn{
+    margin-top:50px;
+}
+
 .section-second{
-    width:1100px;
+    width:1000px;
+    height:1100px;
     position:relative;
     margin:0 auto;
     text-align: center;
@@ -111,24 +164,107 @@
 
 }
 
+.second-box-img{
+    float:left;
+    width:500px;
+    height:340px;
+}
 
 .section-third{
-    width:1100px;
+    background:#f8f8f8;
+    padding:70px 0;
+}
+
+.section-third-wrap{
+    width:1000px;
     margin:0 auto;
+}
+
+.third-title{
+    font-size:28px;
     text-align: center;
 }
 
+.third-menu-wrap{
+    width:800px;
+    margin:0 auto;
+    padding-top:60px;
+}
+
+.third-menu-list{
+    font-size: 15px;
+    text-align: center;
+    letter-spacing:-2px;
+    background:#e6e6e6;
+    color:#666;
+    padding: 6px 20px 8px;
+    margin-right:7px;
+}
+
+.third-menu-list:first-child{
+    font-size: 15px;
+    text-align: center;
+    letter-spacing:-2px;
+    background:#ffd200;
+    color:#666;
+    padding: 6px 20px 8px;
+    margin-right:7px;
+}
+
+.third-video{
+    margin-top:20px;
+}
 
 .footer{
-    width:1100px;
-    margin:0 auto;
-    text-align: center;
+    padding: 50px 0;
+    background:#333;
 }
 
+.footer-wrap{
+    width:1000px;
+    margin:0 auto;
+}
 
+.footer-sns{
+    text-align: center;
+    padding-bottom:30px;
+}
 
+.footer-menu{
+    text-align: center;
+    padding-bottom:10px;
+}
 
+.footer-menu-list{
+    color:#ccc;
+    font-size:14px;
+}
 
+.vertical-bar{
+    display: inline-block;
+    position:relative;
+    top:3px;
+    width:2px;
+    height:11px;
+    margin:0 11px;
+    vertical-align: top;
+    background:#4b4b4b;
+}
+
+.footer-contact{
+    text-align: center;
+    padding-bottom:30px;
+}
+
+.footer-contact-list{
+    color:#ccc;
+    font-size:14px;
+}
+
+.footer-copy{
+    text-align: center;
+    color:#777;
+}
 
 
 
