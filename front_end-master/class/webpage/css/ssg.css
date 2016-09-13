@@ -1,0 +1,66 @@
+.inner{
+    width:1194px;
+}
+
+.header{
+    width:130px;
+    height:100%;
+    margin-left:23px;
+    border-right:1px solid #e5e5e5;
+}
+
+.header-logo{
+    margin:61px 0 auto;
+}
+
+.nav{
+    margin-top:100px;
+}
+
+.head-nav-first{
+    height:30px;
+    margin:0 auto;
+    background: url(../images/ssg/top_gnb.png) no-repeat -32px 4px;
+    text-indent: -9999em;
+}
+
+.head-nav-second{
+    height:30px;
+    margin:0 auto;
+    background: url(../images/ssg/top_gnb.png) no-repeat -32px -36px;
+    text-indent: -9999em;
+}
+
+.head-nav-third{
+    height:30px;
+    margin:0 auto;
+    background: url(../images/ssg/top_gnb.png) no-repeat -32px -74px;
+    text-indent: -9999em;
+}
+
+.head-nav-fourth{
+    height:30px;
+    margin:0 auto;
+    background: url(../images/ssg/top_gnb.png) no-repeat -32px -115px;
+    text-indent: -9999em;
+}
+
+.head-nav-fifth{
+    height:30px;
+    margin:0 auto;
+    background: url(../images/ssg/top_gnb.png) no-repeat -285px -116px;
+    text-indent: -9999em;
+}
+
+.head-nav-sixth{
+    height:30px;
+    margin:0 auto;
+    background: url(../images/ssg/top_gnb.png) no-repeat -32px -157px;
+    text-indent: -9999em;
+}
+
+.clearfix:after{
+    content:"";
+    display:block;
+    clear:both;
+}
