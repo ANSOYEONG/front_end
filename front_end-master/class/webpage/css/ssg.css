@@ -2,8 +2,21 @@
     width:1194px;
 }
 
+.header-wrap{
+    width:100%;
+}
+
+.head-background{
+    position:relative;
+    float:right;
+    width:1772px;
+    height:867px;
+    background:url(../images/ssg/bg_intro2.jpg);
+}
+
 .header{
-    width:130px;
+    float:left;
+    width:107px;
     height:100%;
     margin-left:23px;
     border-right:1px solid #e5e5e5;
@@ -14,39 +27,47 @@
 }
 
 .nav{
-    margin-top:100px;
+    margin-top:165px;
 }
 
 .head-nav-first{
-    height:30px;
+    width:130px;
+    height:39px;
     margin:0 auto;
     background: url(../images/ssg/top_gnb.png) no-repeat -32px 4px;
     text-indent: -9999em;
 }
+.head-nav{
+    margin-left:10px;
+}
 
 .head-nav-second{
-    height:30px;
+    width:130px;
+    height:39px;
     margin:0 auto;
     background: url(../images/ssg/top_gnb.png) no-repeat -32px -36px;
     text-indent: -9999em;
 }
 
 .head-nav-third{
-    height:30px;
+    width:130px;
+    height:39px;
     margin:0 auto;
     background: url(../images/ssg/top_gnb.png) no-repeat -32px -74px;
     text-indent: -9999em;
 }
 
 .head-nav-fourth{
-    height:30px;
+    width:130px;
+    height:39px;
     margin:0 auto;
     background: url(../images/ssg/top_gnb.png) no-repeat -32px -115px;
     text-indent: -9999em;
 }
 
 .head-nav-fifth{
-    height:30px;
+    width:130px;
+    height:39px;
     margin:0 auto;
     background: url(../images/ssg/top_gnb.png) no-repeat -285px -116px;
     text-indent: -9999em;
@@ -58,6 +79,47 @@
     background: url(../images/ssg/top_gnb.png) no-repeat -32px -157px;
     text-indent: -9999em;
 }
+
+.head-nav-btn{
+    display: inline-block;
+    width:30px;
+    height:30px;
+    margin-top:150px;
+    margin-left:25px;
+    background: url(../images/ssg/btn.png) no-repeat -10px -260px;
+    text-indent: -9999em;
+}
+
+.section-second{
+    position:relative;
+    float:right;
+    width:1772px;
+    height:867px;
+    background:#fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .clearfix:after{
     content:"";
