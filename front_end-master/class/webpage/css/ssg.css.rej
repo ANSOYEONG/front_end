@@ -1,0 +1,24 @@
+diff a/front_end-master/class/webpage/css/ssg.css b/front_end-master/class/webpage/css/ssg.css	(rejected hunks)
+@@ -2,8 +2,21 @@
+     width:1194px;
+ }
+ 
++.header-wrap{
++    width:100%;
++}
++
++.head-background{
++    position:relative;
++    float:right;
++    width:1772px;
++    height:867px;
++    background:url(../images/ssg/bg_intro2.jpg);
++}
++
+ .header{
+-    width:130px;
++    float:left;
++    width:107px;
+     height:100%;
+     margin-left:23px;
+     border-right:1px solid #e5e5e5;

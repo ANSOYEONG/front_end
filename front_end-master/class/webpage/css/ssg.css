@@ -1,17 +1,15 @@
 .inner{
-    width:1194px;
+    float:right;
+    width:1772px;
 }
 
-.header-wrap{
-    width:100%;
+.container{
+    width:1903px;
 }
 
 .head-background{
-    position:relative;
-    float:right;
-    width:1772px;
-    height:867px;
-    background:url(../images/ssg/bg_intro2.jpg);
+    height:900px;
+    background:url(../images/ssg/bg_intro2.jpg)50% 0;
 }
 
 .header{
@@ -28,6 +26,7 @@
 
 .nav{
     margin-top:165px;
+    height:100%;
 }
 
 .head-nav-first{
@@ -90,16 +89,10 @@
     text-indent: -9999em;
 }
 
-.section-second{
-    position:relative;
-    float:right;
-    width:1772px;
-    height:867px;
-    background:#fff;
+.banner-icon-wrap{
+    
+
 }
-
-
-
 
 
 
