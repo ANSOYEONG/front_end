@@ -89,12 +89,26 @@
     text-indent: -9999em;
 }
 
-.banner-icon-wrap{
-    
-
+.main-banner-section{
+    width:100%;
+    margin:0 auto;
 }
 
+.banner-icon-wrap{
+    width:100%;
+    position:absolute;
+    top:55px;
+    left:1790px;
+    float:right;
+}
 
+.banner-icon{
+    margin-right:20px;
+}
+
+.banner-txt{
+
+}
 
 
 
