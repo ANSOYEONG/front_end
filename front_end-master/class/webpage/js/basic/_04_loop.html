@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>반복문</title>
+
+    <script>
+       var i;
+       var sum = 0;
+
+        for(i=1; i<=100; i++)
+         {
+            sum+=i;
+         }
+
+        document.write(sum);
+
+
+       // result 결과값을 html 형태로 만들어 줌
+       var node = document.createTextNode(sum);
+
+       // div 태그 새로 생성
+       var div = document.createElement('div');
+
+       // div 태그에 result id 추가
+       div.setAttribute('id', 'result');
+
+       // result 결과값을 새로 생성된 div태그에 넣어줌
+       div.appendChild(node);
+
+       // ==> <div id="result">100</div>
+
+       // id=body 인 태그 영역을 가져옴
+       var element = document.getElementById("body");
+
+       // id=body 인 태그 영역에 생성된 sum 결과값을 넣어줌
+       element.appendChild(div);
+
+    </script>
+
+</head>
+<body id="body">
+
+
+
+</body>
+</html>
