@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <script>
+
+
+        //3. return 값이 있는 함수
+
+        function returnMulti(num5,num6,midValue){
+//            var num5 = document.getElementById('num5').value;
+//            var num6 = document.getElementById('num6').value;
+//            var midValue;
+
+            midValue = parseInt(num5) * parseInt(num6);
+            return midValue;
+        }
+
+        function returnAdd(num5,num6,midValue){
+
+//            var num5 = document.getElementById('num5').value;
+//            var num6 = document.getElementById('num5').value;
+//            var midValue;
+
+            midValue = parseInt(num5) + parseInt(num6);
+            return midValue;
+        }
+
+
+        function cal(){
+            var num5 = document.getElementById('num5').value;
+            var num6 = document.getElementById('num5').value;
+            var midValue = 0;
+
+            var result;
+
+            result = returnMulti(num5,num6) - returnAdd(num5,num6,midValue);
+
+            document.write(result);
+        }
+
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>
