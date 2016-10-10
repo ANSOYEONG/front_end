@@ -26,8 +26,8 @@
           <file leaf-file-name="ssg.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/ssg.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.2249691">
-                  <caret line="370" column="71" selection-start-line="370" selection-start-column="71" selection-end-line="370" selection-end-column="71" />
+                <state vertical-scroll-proportion="0.11372064">
+                  <caret line="508" column="30" selection-start-line="508" selection-start-column="30" selection-end-line="508" selection-end-column="30" />
                   <folding>
                     <marker date="1476090439230" expanded="true" signature="1933:2027" placeholder="..." />
                   </folding>
@@ -685,21 +685,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/ssg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2249691">
-          <caret line="370" column="71" selection-start-line="370" selection-start-column="71" selection-end-line="370" selection-end-column="71" />
-          <folding>
-            <marker date="1476090439230" expanded="true" signature="1933:2027" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/css/ssg.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3697479">
           <caret line="274" column="15" selection-start-line="274" selection-start-column="15" selection-end-line="274" selection-end-column="15" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/ssg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11372064">
+          <caret line="508" column="30" selection-start-line="508" selection-start-column="30" selection-end-line="508" selection-end-column="30" />
+          <folding>
+            <marker date="1476090439230" expanded="true" signature="1933:2027" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
