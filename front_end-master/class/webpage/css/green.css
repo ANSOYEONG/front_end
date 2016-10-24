@@ -1,0 +1,30 @@
+.inner{
+    width:1200px;
+    margin:0 auto;
+}
+
+.clearfix:after{
+    content:"";
+    display:block;
+    clear:both;
+}
+
+.aside{
+    float:right;
+    height:1810px;
+}
+
+.aside ul{
+    width:89px;
+    height:100%;
+    background:#1F1F22;
+}
+
+.aside-list{
+    height:89px;
+    text-align:center;
+}
+
+aside .ul >aside-list > a strong{
+    color:#fff;
+}

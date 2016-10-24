@@ -3,59 +3,92 @@
 <head>
     <meta charset="UTF-8">
     <title></title>
+    <script type="text/javascript" src="../lib/jquery-3.1.1.js"></script>
 
 </head>
 <body>
 
-<div id="box"> box </div>
+    <!--<div id="box"> box </div>-->
 
-<script>
-//    var node1 = document.getElementById('box1');
-//    // node에는 id가 box인 div태그 영역이 들어있다.
-//    var node2 = document.getElementById('box2');
-//    var node3 = document.getElementById('box3');
-//
-//    console.log(node);
-//
-//    node1.style.color = '#f00'; // node가 가지고 있는 style객체 , style객체가 갖고있는 color변수를 #f00으로
-//    node1.style.color = '#ff0';
-//    node1.style.color = '#f0f';
-//
-//    node1.style.width = '300px';
-//    node2.style.width = '300px';
-//    node3.style.width = '300px';
-//
-//    node1.style.width = '1px solid #000';
-//    node2.style.width = '1px solid #000';
-//    node3.style.width = '1px solid #000';
+    <div id="box1"> box1 </div>
+    <div id="box2"> box2 </div>
+    <div id="box3"> box3 </div>
 
-</script>
+    <div class="wrap">
 
-<script>
+        <p class="text1">Hello...</p>
 
-    $(function() {
-        $('#box1').css({
-            color: '#f00',
-            width: 300,
-            border: '1px solid #000'
+        <div>
+            <p class="text2">How are you...</p>
+        </div>
+
+    </div>
+
+    <!--// <script>-->
+    <!--//    var node1 = document.getElementById('box1');-->
+    <!--//    // node에는 id가 box인 div태그 영역이 들어있다.-->
+    <!--//    var node2 = document.getElementById('box2');-->
+    <!--//    var node3 = document.getElementById('box3');-->
+    <!--//-->
+    <!--//    console.log(node);-->
+    <!--//-->
+    <!--//    node1.style.color = '#f00'; // node가 가지고 있는 style객체 , style객체가 갖고있는 color변수를 #f00으로-->
+    <!--//    node1.style.color = '#ff0';-->
+    <!--//    node1.style.color = '#f0f';-->
+    <!--//-->
+    <!--//    node1.style.width = '300px';-->
+    <!--//    node2.style.width = '300px';-->
+    <!--//    node3.style.width = '300px';-->
+    <!--//-->
+    <!--//    node1.style.width = '1px solid #000';-->
+    <!--//    node2.style.width = '1px solid #000';-->
+    <!--//    node3.style.width = '1px solid #000';-->
+
+    <!--// </script>-->
+
+    <script>
+
+        $(function() {
+            $('#box1').css({
+                color: '#f00',
+                width: 300,
+                border: '1px solid #000'
+            });
+
+            $('#box2').css({
+                color: '#ff0',
+                width: 300,
+                border: '1px solid #000'
+            });
+
+            $('#box3').css({
+                color: '#f0f',
+                width: 300,
+                border: '1px solid #000'
+            });
+
+            $('.wrap').css({
+                width: 500,
+                height: 500,
+                border: '5px solid #f00'
+            });
+
+            $('div, p').css({
+                'font-size':20,
+                color:'yellow'
+            });
+
+            $('.wrap .text1').css({
+                color:'red'
+            });
+
+            $('body > div').css({
+                color:'green'
+            })
+
         });
 
-        $('#box2').css({
-            color: '#ff0',
-            width: 300,
-            border: '1px solid #000'
-        });
-
-        $('#box3').css({
-            color: '#f0f',
-            width: 300,
-            border: '1px solid #000'
-        });
-
-
-    }
-
-</script>
+    </script>
 
 </body>
 </html>
