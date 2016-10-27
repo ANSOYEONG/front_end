@@ -5,10 +5,10 @@
 $(function(){
     $('.gnb-depth1-link').on('mouseenter' , function(){
 
-        $('.gnb-depth2').stop().delay(500).fadeIn(500);
+        $('.gnb-depth2').stop().delay(500).fadeIn(1000);
         $('.gnb-bg').stop().animate({
             height:274
-        });
+        }, 300);
     });
 
     $('.gnb-depth1-link').on('mouseleave' , function(){

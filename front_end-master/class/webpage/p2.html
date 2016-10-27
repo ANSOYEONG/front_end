@@ -5,6 +5,26 @@
   <title>닷홈 홈페이지</title>
   <link rel="stylesheet" href="css/reset.css"/>
   <link rel="stylesheet" href="css/p2.css"/>
+
+  <script src="js/lib/jquery-3.1.1.js"></script>
+  <script>
+    $(function(){
+
+      //
+      $('gnb-depth1-item').on('mouseenter',function(){
+
+        $(this).children('.gnb-depth2').css('display','block');
+
+      });
+
+      $('gnb-depth1-item').on('mouseleave',function(){
+
+        $(this).children('.gnb-depth2').css('display','none');
+
+      });
+
+    });
+  </script>
 </head>
 <body>
 

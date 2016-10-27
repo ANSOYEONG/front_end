@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0364b3ee-b0bb-4f8f-811c-14e6b739e014" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front_end-master/class/webpage/css/green.css" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/css/green.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front_end-master/class/webpage/green.html" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/green.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-12_children.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-13_children_selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-14_children_selector.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-15_node_remove_duplication.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-0_sample.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-1_create_node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-2_prepend_node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-3_append_node.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-4_append_node.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front_end-master/class/webpage/js/gnb.js" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/gnb.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front_end-master/class/webpage/p2.html" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/p2.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="front_end.iws" />
@@ -24,13 +33,13 @@
     <favorites_list name="front_end" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5421687">
+    <splitter split-orientation="horizontal" split-proportion="0.65557164">
       <split-first>
         <leaf>
-          <file leaf-file-name="green.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="green.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/green.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.14018692">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
                   <folding />
                 </state>
@@ -40,8 +49,28 @@
           <file leaf-file-name="sunmoon.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/sunmoon.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-19.5">
-                  <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="165" column="10" selection-start-line="165" selection-start-column="10" selection-end-line="165" selection-end-column="10" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_12-3_append_node.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-3_append_node.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="33" column="73" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_12-4_append_node.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-4_append_node.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.38333333">
+                  <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -54,8 +83,8 @@
           <file leaf-file-name="green.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/css/green.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3068182">
-                  <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -114,6 +143,18 @@
         <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-11_index.html" />
         <option value="$PROJECT_DIR$/front_end-master/class/webpage/green.html" />
         <option value="$PROJECT_DIR$/front_end-master/class/webpage/css/green.css" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-12_children.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-13_first_child.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-13_children_selector.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-14_children_selector.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-15_node_remove_duplication.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/gnb.js" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/p2.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12_0_sample.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-1_create_node.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-2_prepend_node.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-2_append_node.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-4_append_node.html" />
       </list>
     </option>
   </component>
@@ -125,9 +166,10 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="522" />
-    <option name="width" value="1398" />
-    <option name="height" value="1040" />
+    <option name="x" value="187" />
+    <option name="y" value="8" />
+    <option name="width" value="1628" />
+    <option name="height" value="1023" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -152,6 +194,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -228,7 +271,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -253,7 +296,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -265,6 +307,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\basic" />
+      <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\lib" />
       <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -325,10 +368,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="522" y="0" width="1398" height="1040" extended-state="0" />
+    <frame x="187" y="8" width="1628" height="1023" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15294118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18867925" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -346,6 +389,25 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18176101" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -366,6 +428,46 @@
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/green.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/sunmoon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/css/green.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/css/sunmoon.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/css/baskinrabins.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="423" column="0" selection-start-line="423" selection-start-column="0" selection-end-line="427" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/green.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="111" selection-start-line="16" selection-start-column="111" selection-end-line="16" selection-end-column="111" />
           <folding />
         </state>
@@ -375,7 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -537,13 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12_this.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3402778">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-7_handle_iterate_node.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-4.375">
@@ -563,15 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="45.708332">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/sunmoon.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.5">
-          <caret line="161" column="19" selection-start-line="161" selection-start-column="19" selection-end-line="161" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -585,16 +670,131 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/green.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14018692">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12_this.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.208333">
+          <caret line="47" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="79" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-12_children.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.958333">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-13_children_selector.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.291667">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-14_children_selector.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33969012">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-15_node_remove_duplication.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-53.75">
+          <caret line="86" column="10" selection-start-line="86" selection-start-column="10" selection-end-line="86" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/gnb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_04_loop.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.35756853">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_03_condition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="72" column="36" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/p2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.923077">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/04부_jQuery_기초와활용/04장_노드생성_추가_삭제_이동/lesson01_노드생성추가/02_ing/01_00_핵심01_예제01_노드생성_풀이전코드.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-1_create_node.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58998805">
+          <caret line="33" column="57" selection-start-line="33" selection-start-column="57" selection-end-line="33" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-0_sample.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48152563">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/sunmoon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="165" column="10" selection-start-line="165" selection-start-column="10" selection-end-line="165" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-2_prepend_node.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-3_append_node.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="73" selection-start-line="33" selection-start-column="73" selection-end-line="33" selection-end-column="73" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/css/green.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3068182">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_12-4_append_node.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38333333">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
