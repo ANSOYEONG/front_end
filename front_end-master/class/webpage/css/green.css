@@ -10,16 +10,16 @@
 }
 
 .aside{
-    float:right;
     height:1810px;
     position:fixed;
     top:0;
-    left:0;
+    left:1570px;
 }
 
 .aside ul{
     width:89px;
     height:100%;
+    float:right;
     vertical-align:middle;
     background:#1F1F22;
 }
@@ -100,19 +100,91 @@
 
 
 
+.main-visual-slider{
+    width:1467px;
+    position:absolute;
+    top:340px;
+    left:60px;
+}
+
+.slider-next{
+    float:right;
+}
+
+.circle-bar{
+    width:110px;
+    position:relative;
+    top:-25px;
+    left:800px;
+
+
+}
+
+.circle{
+    width:15px;
+    height:15px;
+    background: #fff;
+    border-radius:8px;
+    text-indent:-99999em;
+    margin-right:5px;
+    display: inline-block;
+}
+
+.ellipse{
+    width:35px;
+    height:15px;
+    background: #fff;
+    border-radius:8px;
+    text-indent:-99999em;
+    display: inline-block;
+}
+
+
+.reco-tit{
+    text-align:center;
+}
+
+.reco-tit:after{
+    content:'';
+    width:53px;
+    bottom:0;
+    margin:auto;
+    left:0;
+    right:0;
+    border-bottom:1px solid #929292;
+    position:absolute;
+}
 
 
 
+.reco-product{
+    width:1200px;
+    height:200px;
+}
+
+.reco-product-wrap{
+    width:100%;
+}
+
+.reco-product-item{
+    float:left;
+    margin-right:70px;
+}
+
+.reco-product-txt{
+    font-size:15px;
+    font-weight:bold;
+    color:#333;
+}
+
+.reco-prev{
+    float:left;
+}
 
 
-
-
-
-
-
-
-
-
+.reco-next{
+    float:right;
+}
 
 
 
