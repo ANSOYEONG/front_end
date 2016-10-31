@@ -13,7 +13,7 @@
     height:1810px;
     position:fixed;
     top:0;
-    left:1570px;
+    right:0px;
 }
 
 .aside ul{
@@ -98,8 +98,6 @@
     display: inline-block;
 }
 
-
-
 .main-visual-slider{
     width:1467px;
     position:absolute;
@@ -116,8 +114,6 @@
     position:relative;
     top:-25px;
     left:800px;
-
-
 }
 
 .circle{
@@ -139,23 +135,36 @@
     display: inline-block;
 }
 
+.recommend{
+    margin-top:45px;
+}
+
+
+.reco-product{
+    margin-top:45px;
+}
+
 
 .reco-tit{
     text-align:center;
 }
 
+.reco-tit img{
+    margin-bottom:10px;
+}
+
 .reco-tit:after{
+    display: block;
     content:'';
     width:53px;
-    bottom:0;
+    height:1px;
+    /*bottom:0;*/
     margin:auto;
     left:0;
     right:0;
     border-bottom:1px solid #929292;
     position:absolute;
 }
-
-
 
 .reco-product{
     width:1200px;
@@ -169,6 +178,7 @@
 .reco-product-item{
     float:left;
     margin-right:70px;
+    margin-bottom:50px;
 }
 
 .reco-product-txt{
@@ -181,10 +191,144 @@
     float:left;
 }
 
-
 .reco-next{
     float:right;
 }
+
+.best-wrap{
+    float:left;
+}
+
+.best-img-list img{
+    border:1px solid #dddddd;
+}
+
+.best-logo{
+    font-size:16px;
+    color:#666;
+    font-weight:bold;
+}
+
+.article{
+
+}
+
+.article-news{
+    float:left;
+    width:294px;
+    height:294px;
+    background-color:#c051a3;
+    margin-right:10px;
+}
+
+.article-logo{
+    font-size:16px;
+    font-weight:bold;
+    color:#fff;
+}
+
+.article-txt1{
+    color:#fff;
+    font-size:20px;
+}
+
+.article-txt2{
+    color:#fff;
+    font-size:16px;
+}
+
+.date{
+    color:#fff;
+}
+
+.article-img1 img{
+    float:left;
+    width:294px;
+    height:294px;
+}
+
+.article-img2{
+    float:left;
+    margin-right:10px;
+}
+
+.article-img3{
+    float:left;
+}
+
+.quick-img-list{
+    float:left;
+    margin-right:80px;
+}
+
+.footer-first{
+    border-top:1px solid #000;
+    border-bottom:1px solid #ccc;
+}
+
+.footer-menu{
+    margin:10px 0px;
+}
+
+
+.footer-menu-list{
+    float:left;
+    font-size:13px;
+    color:#333;
+    margin-right:20px;
+}
+
+.footer-logo{
+    float:left;
+}
+
+.footer-content{
+    float:left;
+}
+
+.quick-logo{
+    font-size:16px;
+    font-weight:bold;
+    color:#333;
+}
+
+.quick-tit{
+    font-size:18px;
+}
+
+.quick-txt{
+    color:#939393;
+}
+
+
+.footer-content{
+    color:#666;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
