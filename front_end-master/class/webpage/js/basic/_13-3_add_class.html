@@ -13,7 +13,6 @@
             margin: 10px;
         }
         ul {
-            width:300px;
             padding: 10px;
         }
         li.select {
@@ -22,42 +21,44 @@
     </style>
 
     <script type="text/javascript"  src="../lib/jquery-3.1.1.js"></script>
+    <script>
 
-        <script>
+        $(document).ready(function(){
 
-            $(document).ready(function(){
-
-                $('ul.menu li').on('click', function(){
-                    $(this).addClass('select')
-                });
+            $('ul.menu li').on('click', function(){
+                $(this).addClass('select');
             });
 
-        </script>
+        });
+
+    </script>
 </head>
 
 <body>
 
-    <button type="button" class="btn">실행</button>
-    <ul class="menu">
-        <li>
-            menu1
-        </li>
-        <li>
-            menu2
-        </li>
-        <li class="select">
-            menu3
-        </li>
-        <li>
-            menu4
-        </li>
-        <li>
-            menu5
-        </li>
-        <li>
-            menu6
-        </li>
-    </ul>
+<button type="button" class="btn">실행</button>
+
+<ul class="menu">
+    <li>
+        menu1
+    </li>
+    <li>
+        menu2
+    </li>
+    <li class="select">
+        menu3
+    </li>
+    <li>
+        menu4
+    </li>
+    <li>
+        menu5
+    </li>
+    <li>
+        menu6
+    </li>
+</ul>
+
 </body>
 
 </html>
