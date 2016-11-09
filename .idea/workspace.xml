@@ -2,78 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0364b3ee-b0bb-4f8f-811c-14e6b739e014" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/16.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/17.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/18.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/19.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/20.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/21.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/22.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/23.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/24.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/25.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/26.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/27.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/28.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/29.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/30.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/31.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/32.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/33.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/34.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/35.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/36.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/37.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/38.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/39.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/40.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/41.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/42.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/43.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/44.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/45.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/46.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/47.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/48.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/49.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/50.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/51.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/52.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/53.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/54.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/55.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/56.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/57.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/58.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/59.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/60.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/images/snoopy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/sprite/sprite_car.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_13-4_has_class.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_13-4_remove_class.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/css/dothome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/dothome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/image_animation_01.html" />
-      <change type="MOVED" beforePath="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\basic\_11_jquery_sample.html" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11-0_jquery_sample.html" />
-      <change type="MOVED" beforePath="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\basic\_12_this.html" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_11_8_this.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_13-3_add_class.html" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_13-3_add_class.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front_end-master/class/webpage/p2.html" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/p2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_02.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html" afterPath="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="front_end.iws" />
@@ -94,7 +25,7 @@
     <favorites_list name="front_end" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6206597">
+    <splitter split-orientation="horizontal" split-proportion="0.6550472">
       <split-first>
         <leaf>
           <file leaf-file-name="baskinrabins.html" pinned="false" current-in-tab="false">
@@ -107,31 +38,11 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="sunmoon.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/sunmoon.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.0">
-                  <caret line="180" column="12" selection-start-line="180" selection-start-column="12" selection-end-line="180" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="green.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/green.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.0">
+                <state vertical-scroll-proportion="0.0">
                   <caret line="203" column="38" selection-start-line="203" selection-start-column="38" selection-end-line="203" selection-end-column="38" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="dothome.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/dothome.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-158.75">
-                  <caret line="254" column="7" selection-start-line="254" selection-start-column="7" selection-end-line="254" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
@@ -140,18 +51,28 @@
           <file leaf-file-name="_14-1_attr_value.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-12.5">
-                  <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+                <state vertical-scroll-proportion="-5.625">
+                  <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="74" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="image_animation_01.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/image_animation_01.html">
+          <file leaf-file-name="transition_01.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_01.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.56242704">
-                  <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+                <state vertical-scroll-proportion="-19.375">
+                  <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="transition_02.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_02.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.2975496">
+                  <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -244,8 +165,11 @@
         <option value="$PROJECT_DIR$/front_end-master/class/webpage/p2.html" />
         <option value="$PROJECT_DIR$/front_end-master/class/webpage/dothome.html" />
         <option value="$PROJECT_DIR$/front_end-master/class/webpage/css/dothome.css" />
-        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html" />
         <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/image_animation_01.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/css/transition_01.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_01.html" />
+        <option value="$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_02.html" />
       </list>
     </option>
   </component>
@@ -257,8 +181,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="289" />
-    <option name="width" value="1480" />
+    <option name="x" value="122" />
+    <option name="width" value="1644" />
     <option name="height" value="1041" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -284,6 +208,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -391,7 +316,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="image_animation" />
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front_end-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="class" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -413,43 +356,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webpage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image_animation" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sprite" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front_end" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front_end" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="front_end-master" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="class" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -461,10 +373,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\basic" />
       <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\image_animation\sprite" />
       <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\image_animation" />
       <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\sprite" />
-      <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\basic" />
       <recent name="C:\Users\DB405T3A-F08C\Documents\front_end\front_end-master\class\webpage\js\lib" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -526,10 +438,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="289" y="0" width="1480" height="1041" extended-state="0" />
+    <frame x="122" y="0" width="1644" height="1041" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20110957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14445828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -583,20 +495,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/lib/jquery-3.1.0.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/lib/jquery-3.1.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/ssg.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.27083334">
@@ -812,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-23.166666">
           <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-22.5">
           <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-22.5">
           <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,7 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-11.875">
           <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,7 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.5">
           <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,7 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-21.875">
           <caret line="35" column="48" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-17.5">
           <caret line="28" column="6" selection-start-line="0" selection-start-column="0" selection-end-line="259" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -908,13 +798,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9045454">
           <caret line="340" column="1" selection-start-line="340" selection-start-column="1" selection-end-line="340" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/dothome.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-158.75">
+        <state vertical-scroll-proportion="0.0">
           <caret line="254" column="7" selection-start-line="254" selection-start-column="7" selection-end-line="254" selection-end-column="7" />
           <folding />
         </state>
@@ -930,14 +819,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.5">
-          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/css/baskinrabins.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -948,8 +829,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/image_animation/image_animation_01.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56242704">
+        <state vertical-scroll-proportion="0.34422404">
           <caret line="96" column="26" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/_14-1_attr_value.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_01.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-19.375">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front_end-master/class/webpage/js/basic/transition_02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2975496">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
