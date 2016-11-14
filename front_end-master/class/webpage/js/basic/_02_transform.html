@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .basketball{
+            width:100px;
+            height: 100px;
+
+            position:absolute;
+            top:0;
+            left:0;
+        }
+
+        .basketball.drop{
+            top:500px;
+        }
+
+    </style>
+
+    <script src="../lib/jquery-3.1.1.js"></script>
+    <script>
+
+        $(function() {
+
+            $('.basketball').on('click', function () {
+
+                setInterval(function () {
+
+                    $('.basketball').addClass('drop').css({transition:'top 1s cubic-bezier(.33,.01,.9,.47)'});
+
+                    setTimeout(function (){
+
+                        $('.basketball').removeClass('drop').css({transition:'top 1s cubic-bezier(.1,.44,.6,.97)'});
+
+                    }, 1000);
+
+
+
+                    
+                }, 2000);
+
+
+            });
+
+        });
+
+
+    </script>
+</head>
+<body>
+
+    <img src="../images/basketball.png" class="basketball"/>
+</body>
+</html>
